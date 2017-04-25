@@ -1,6 +1,6 @@
 # npmtest-telegram-bot-api
 
-#### test coverage for  [telegram-bot-api (v1.2.0)](https://github.com/mast/telegram-bot-api#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-telegram-bot-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-telegram-bot-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-telegram-bot-api.svg)](https://travis-ci.org/npmtest/node-npmtest-telegram-bot-api)
+#### basic test coverage for  [telegram-bot-api (v1.2.0)](https://github.com/mast/telegram-bot-api#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-telegram-bot-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-telegram-bot-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-telegram-bot-api.svg)](https://travis-ci.org/npmtest/node-npmtest-telegram-bot-api)
 
 #### Node.js module for Telegram Bot API (https://core.telegram.org/bots/api)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-telegram-bot-api/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-telegram-bot-api/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-telegram-bot-api/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-telegram-bot-api/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-telegram-bot-api/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-telegram-bot-api/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-telegram-bot-api/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-telegram-bot-api/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-telegram-bot-api/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-telegram-bot-api/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-telegram-bot-api/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-telegram-bot-api/build/coverage.html/index.html)
 
@@ -88,7 +88,8 @@
         "url": "git+https://github.com/mast/telegram-bot-api.git"
     },
     "scripts": {},
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
